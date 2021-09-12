@@ -1,0 +1,15 @@
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.exe
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.deps.json
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.runtimeconfig.json
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.runtimeconfig.dev.json
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.dll
+D:\Проекты\Xml_save\Xml_save\bin\Debug\netcoreapp3.1\Xml_save.pdb
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.csproj.AssemblyReference.cache
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.Form1.resources
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.csproj.GenerateResource.cache
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.AssemblyInfoInputs.cache
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.AssemblyInfo.cs
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.csproj.CoreCompileInputs.cache
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.dll
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.pdb
+D:\Проекты\Xml_save\Xml_save\obj\Debug\netcoreapp3.1\Xml_save.genruntimeconfig.cache
